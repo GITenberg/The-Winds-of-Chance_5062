@@ -1,0 +1,31 @@
+_repo: The-Winds-of-Chance_5062
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beach, Rex
+    alias: Beach, Rex Ellingwood
+    birthdate: 1877
+    deathdate: 1949
+    gutenberg_agent_id: '4000'
+    url: http://www.gutenberg.org/2009/agents/4000
+    wikipedia: http://en.wikipedia.org/wiki/Rex_Beach
+description: ''
+gutenberg_bookshelf:
+- Movie Books
+- Contemporary Reviews
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5062'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Alaska -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Fathers and daughters -- Fiction'
+- !lcsh 'Gamblers -- Fiction'
+- GITenberg
+title: The Winds of Chance
+url: http://www.gutenberg.org/ebooks/5062
